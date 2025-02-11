@@ -1,3 +1,9 @@
+> ⚠️ **WARNING: This project is outdated**
+>
+> Consider using [piper-tts](https://github.com/rhasspy/piper)
+> instead, which offers improved text-to-speech capabilities and
+> active maintenance.
+
 ttsprech
 ========
 
